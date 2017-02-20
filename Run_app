@@ -1,0 +1,1 @@
+Para Rodar a API, basta entrar dentro da pasta pelo cmd, e gitar o comando "npm install", esse comando irá instalar todos os plugins node. Ao finalizar a instalação Rodar o "siscorx-init.js", espere carregar o banco e pronto
